@@ -66,13 +66,18 @@ Follow these steps to get MAOTH running locally:
 
 ### Onboarding Steps
 
-|       Step 1: Personal Info       |        Step 2: Preferences        |        Step 3: Confirmation       |
+|       Step 1: Personal Info       |        Step 2: Business Info      |        Step 3: Preferences        |
 | :-------------------------------: | :-------------------------------: | :-------------------------------: |
 | ![Screenshot 2025-06-08 102319](https://github.com/user-attachments/assets/b8c69978-575d-40c1-816b-bac4a0795b21) | ![Screenshot 2025-06-08 102401](https://github.com/user-attachments/assets/1c8f3adc-0071-4ce1-8e89-29218fbc9eb7)| ![Screenshot 2025-06-08 102423](https://github.com/user-attachments/assets/1960d3e4-c0a6-473b-9fa8-e7aef0c06ad9)|
 
-### Dashboard
+### Dashboard Based on Preference
 
-![Screenshot 2025-06-08 102512](https://github.com/user-attachments/assets/1b858d2f-ea88-481f-bfb8-23b66f52b8b4)
+|       Preference 1: Light & Grid       |        Preference 2: Dark & List     |
+| :-------------------------------: | :-------------------------------: | :-------------------------------: |
+| ![Screenshot 2025-06-08 102512](https://github.com/user-attachments/assets/cd9a3163-a845-4055-a359-82e693c62ba3)| ![Screenshot 2025-06-08 103953](https://github.com/user-attachments/assets/2a70c2e1-9748-466a-981e-9fec2935b3b2) ![Screenshot 2025-06-08 104009](https://github.com/user-attachments/assets/f8e40b90-2f13-4da5-bb98-696a006294b1)
+
+
+
 
 💻 [Watch a 1–2 min walkthrough on Loom](https://loom.com/your-demo-link)
 
