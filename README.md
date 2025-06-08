@@ -59,7 +59,7 @@ Follow these steps to get MAOTH running locally:
 
 ### Landing Page
 
-![Landing](![Screenshot 2025-06-08 102054](https://github.com/user-attachments/assets/25c170ac-b39d-432d-8385-2f169cefa1f1))
+![Screenshot 2025-06-08 102054](https://github.com/user-attachments/assets/25c170ac-b39d-432d-8385-2f169cefa1f1)
 ![Screenshot 2025-06-08 102131](https://github.com/user-attachments/assets/4a828172-b43d-4cf5-8615-49fbf843bf9f)
 ![Screenshot 2025-06-08 102159](https://github.com/user-attachments/assets/05b56640-a17b-4952-97f3-857ca562b709)
 
@@ -68,14 +68,11 @@ Follow these steps to get MAOTH running locally:
 
 |       Step 1: Personal Info       |        Step 2: Preferences        |        Step 3: Confirmation       |
 | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| ![Screenshot 2025-06-08 102319](https://github.com/user-attachments/assets/b8c69978-575d-40c1-816b-bac4a0795b21) | ![Screenshot 2025-06-08 102401](https://github.com/user-attachments/assets/1c8f3adc-0071-4ce1-8e89-29218fbc9eb7)
-| ![Screenshot 2025-06-08 102423](https://github.com/user-attachments/assets/1960d3e4-c0a6-473b-9fa8-e7aef0c06ad9)
-|
+| ![Screenshot 2025-06-08 102319](https://github.com/user-attachments/assets/b8c69978-575d-40c1-816b-bac4a0795b21) | ![Screenshot 2025-06-08 102401](https://github.com/user-attachments/assets/1c8f3adc-0071-4ce1-8e89-29218fbc9eb7)| ![Screenshot 2025-06-08 102423](https://github.com/user-attachments/assets/1960d3e4-c0a6-473b-9fa8-e7aef0c06ad9)|
 
 ### Dashboard
 
-![User Dashboard](![Screenshot 2025-06-08 102512](https://github.com/user-attachments/assets/1b858d2f-ea88-481f-bfb8-23b66f52b8b4)
-)
+![Screenshot 2025-06-08 102512](https://github.com/user-attachments/assets/1b858d2f-ea88-481f-bfb8-23b66f52b8b4)
 
 💻 [Watch a 1–2 min walkthrough on Loom](https://loom.com/your-demo-link)
 
