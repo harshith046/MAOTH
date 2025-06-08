@@ -72,9 +72,9 @@ Follow these steps to get MAOTH running locally:
 
 ### Dashboard Based on Preference
 
-|       Preference 1: Light & Grid       |        Preference 2: Dark & List     |
+|       Preference 1: Light & Grid       |        Preference 2: Dark & List     |      Dark & List      |
 | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| ![Screenshot 2025-06-08 102512](https://github.com/user-attachments/assets/cd9a3163-a845-4055-a359-82e693c62ba3)| ![Screenshot 2025-06-08 103953](https://github.com/user-attachments/assets/2a70c2e1-9748-466a-981e-9fec2935b3b2) ![Screenshot 2025-06-08 104009](https://github.com/user-attachments/assets/f8e40b90-2f13-4da5-bb98-696a006294b1)
+| ![Screenshot 2025-06-08 102512](https://github.com/user-attachments/assets/cd9a3163-a845-4055-a359-82e693c62ba3)| ![Screenshot 2025-06-08 103953](https://github.com/user-attachments/assets/2a70c2e1-9748-466a-981e-9fec2935b3b2) | ![Screenshot 2025-06-08 104009](https://github.com/user-attachments/assets/f8e40b90-2f13-4da5-bb98-696a006294b1)
 
 
 
