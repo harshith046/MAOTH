@@ -68,10 +68,9 @@ Follow these steps to get MAOTH running locally:
 
 |       Step 1: Personal Info       |        Step 2: Preferences        |        Step 3: Confirmation       |
 | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| ![Step1](![Screenshot 2025-06-08 102319](https://github.com/user-attachments/assets/b8c69978-575d-40c1-816b-bac4a0795b21)
-) | ![Step2](![Screenshot 2025-06-08 102401](https://github.com/user-attachments/assets/1c8f3adc-0071-4ce1-8e89-29218fbc9eb7)
-) | ![Step3](![Screenshot 2025-06-08 102423](https://github.com/user-attachments/assets/1960d3e4-c0a6-473b-9fa8-e7aef0c06ad9)
-) |
+| ![Screenshot 2025-06-08 102319](https://github.com/user-attachments/assets/b8c69978-575d-40c1-816b-bac4a0795b21) | ![Screenshot 2025-06-08 102401](https://github.com/user-attachments/assets/1c8f3adc-0071-4ce1-8e89-29218fbc9eb7)
+| ![Screenshot 2025-06-08 102423](https://github.com/user-attachments/assets/1960d3e4-c0a6-473b-9fa8-e7aef0c06ad9)
+|
 
 ### Dashboard
 
