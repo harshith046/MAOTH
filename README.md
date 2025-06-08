@@ -1,70 +1,115 @@
-# Getting Started with Create React App
+# MAOTH – Onboarding Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**A polished multi-step user onboarding experience** built with React and Tailwind CSS. MAOTH offers a sleek, professional interface designed to guide users through registration or setup flows with an intuitive progress bar, seamless transitions, and responsive layouts.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Tech Stack
 
-### `npm start`
+* **Frontend**: React.js, React Router DOM, Context API for global state
+* **Styling**: Tailwind CSS (v3)
+* **Build Tool**: Create React App (CRA)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Key Features
 
-### `npm test`
+1. **Multi-Step Registration Form**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. **Dynamic Progress Bar**
 
-### `npm run build`
+3. **Global State Management**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. **Responsive & Accessible Design**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+5. **Theming & Customization**
+6. 
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Installation & Setup
 
-### `npm run eject`
+Follow these steps to get MAOTH running locally:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Clone the repository**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   git clone https://github.com/harshith046/MAOTH.git
+   cd MAOTH
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. **Install dependencies**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   npm install
+   ```
 
-## Learn More
+3. **Start the development server**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   npm start
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. **Open in your browser**
 
-### Code Splitting
+   * Visit [http://localhost:3000]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 📸 Screenshots & Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Landing Page
 
-### Making a Progressive Web App
+![Landing](./screenshots/landing.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Onboarding Steps
 
-### Advanced Configuration
+|       Step 1: Personal Info       |        Step 2: Preferences        |        Step 3: Confirmation       |
+| :-------------------------------: | :-------------------------------: | :-------------------------------: |
+| ![Step1](./screenshots/step1.png) | ![Step2](./screenshots/step2.png) | ![Step3](./screenshots/step3.png) |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Progress Bar Animation
 
-### Deployment
+![Progress Bar](./screenshots/progress-bar.gif)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+💻 [Watch a 1–2 min walkthrough on Loom](https://loom.com/your-demo-link)
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📁 Project Structure
+
+```text
+MAOTH/
+├── public/                   # Static HTML template
+│   └── index.html
+├── src/
+│   ├── components/           # Reusable UI elements (ProgressBar, FormStep, etc.)
+│   ├── context/              # Context API providers & custom hooks
+│   ├── pages/                # Page-level components (OnboardingFlow)
+│   ├── styles/               # Tailwind CSS configuration & custom styles
+│   ├── assets/               # Images, icons, and media
+│   └── App.jsx               # Main application entry point
+├── screenshots/              # Demo images & animations
+├── .gitignore
+├── package.json
+└── README.md
+```
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions to improve MAOTH!
+
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature/your-feature`.
+3. Commit your changes: `git commit -m "feat: add your feature description"`.
+4. Push to your fork: `git push origin feature/your-feature`.
+5. Open a Pull Request and describe your updates.
+
+Please follow the [code of conduct](CODE_OF_CONDUCT.md) and ensure all commits are well-documented.
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
