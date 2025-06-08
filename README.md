@@ -83,6 +83,8 @@ Follow these steps to get MAOTH running locally:
 
 ## Live Deployment : 
 
+[On Vercel](https://maoth.vercel.app/)
+
 ---
 
 ## 🤝 Contributing
