@@ -14,15 +14,20 @@
 
 ## ✨ Key Features
 
-1. **Multi-Step Registration Form**
+1. **Multi-Step Registration Form**  
+   A wizard-style form that divides the registration process into clear, manageable steps.
 
-2. **Dynamic Progress Bar**
+2. **Dynamic Progress Bar**  
+   A real-time progress indicator displaying completion percentage for each step.
 
-3. **Global State Management**
+3. **Global State Management**  
+   Centralized storage of form data and user inputs via React Context.
 
-4. **Responsive & Accessible Design**
+4. **Responsive and Accessible Design**  
+   Mobile-first layouts and adherence to accessibility best practices.
 
-5. **Theming & Customization**
+5. **Theming and Customization**  
+   Support for light and dark modes, as well as customizable color schemes via Tailwind configuration.
 
 ---
 
@@ -87,8 +92,12 @@ Follow these steps to get MAOTH running locally:
 
 ---
 
-## 🤝 Contributing
+## Contact
 
-We welcome contributions to improve MAOTH!
+| Name                         | Email                                  | GitHub                          |
+|------------------------------|----------------------------------------|---------------------------------|
+| Harshith Madda       | [harshithm046@gmail.com](mailto:harshithm046@gmail.com) | [harshith046](https://github.com/harshith046) | 
 
----
+—  
+  
+
