@@ -1,4 +1,4 @@
-# MAOTH – Onboarding Dashboard
+![Screenshot 2025-06-08 102131](https://github.com/user-attachments/assets/e96a0a23-209e-4c1a-a5f2-9ffda6137eb1)# MAOTH – Onboarding Dashboard
 
 **A polished multi-step user onboarding experience** built with React and Tailwind CSS. MAOTH offers a sleek, professional interface designed to guide users through registration or setup flows with an intuitive progress bar, seamless transitions, and responsive layouts.
 
@@ -59,17 +59,24 @@ Follow these steps to get MAOTH running locally:
 
 ### Landing Page
 
-![Landing](./screenshots/landing.png)
+![Landing](![Screenshot 2025-06-08 102054](https://github.com/user-attachments/assets/25c170ac-b39d-432d-8385-2f169cefa1f1))
+![Screenshot 2025-06-08 102131](https://github.com/user-attachments/assets/4a828172-b43d-4cf5-8615-49fbf843bf9f)
+![Screenshot 2025-06-08 102159](https://github.com/user-attachments/assets/05b56640-a17b-4952-97f3-857ca562b709)
+
 
 ### Onboarding Steps
 
 |       Step 1: Personal Info       |        Step 2: Preferences        |        Step 3: Confirmation       |
 | :-------------------------------: | :-------------------------------: | :-------------------------------: |
-| ![Step1](./screenshots/step1.png) | ![Step2](./screenshots/step2.png) | ![Step3](./screenshots/step3.png) |
+| ![Step1](![Screenshot 2025-06-08 102319](https://github.com/user-attachments/assets/b8c69978-575d-40c1-816b-bac4a0795b21)
+) | ![Step2](![Screenshot 2025-06-08 102401](https://github.com/user-attachments/assets/1c8f3adc-0071-4ce1-8e89-29218fbc9eb7)
+) | ![Step3](![Screenshot 2025-06-08 102423](https://github.com/user-attachments/assets/1960d3e4-c0a6-473b-9fa8-e7aef0c06ad9)
+) |
 
-### Progress Bar Animation
+### Dashboard
 
-![Progress Bar](./screenshots/progress-bar.gif)
+![User Dashboard](![Screenshot 2025-06-08 102512](https://github.com/user-attachments/assets/1b858d2f-ea88-481f-bfb8-23b66f52b8b4)
+)
 
 💻 [Watch a 1–2 min walkthrough on Loom](https://loom.com/your-demo-link)
 
