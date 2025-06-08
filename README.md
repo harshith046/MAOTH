@@ -12,7 +12,7 @@
 
 ---
 
-## ✨ Key Features
+### ✨ Key Features
 
 1. **Multi-Step Registration Form**  
    A wizard-style form that divides the registration process into clear, manageable steps.
@@ -82,11 +82,12 @@ Follow these steps to get MAOTH running locally:
 | ![Screenshot 2025-06-08 102512](https://github.com/user-attachments/assets/cd9a3163-a845-4055-a359-82e693c62ba3)| ![Screenshot 2025-06-08 103953](https://github.com/user-attachments/assets/2a70c2e1-9748-466a-981e-9fec2935b3b2) | ![Screenshot 2025-06-08 104009](https://github.com/user-attachments/assets/f8e40b90-2f13-4da5-bb98-696a006294b1)
 
 
+### Demo
 
 💻 [Watch a 1–2 min walkthrough on Loom](https://www.loom.com/share/8404d3ec43234e1aa9bd76e127bf1f67?sid=b1dc1ab9-d645-49ba-bc5a-3e5366e910be)
 
 
-## Live Deployment : 
+### Live Deployment
 
 [On Vercel](https://maoth.vercel.app/)
 
@@ -94,10 +95,8 @@ Follow these steps to get MAOTH running locally:
 
 ## Contact
 
-| Name                         | Email                                  | GitHub                          |
-|------------------------------|----------------------------------------|---------------------------------|
-| Harshith Madda       | [harshithm046@gmail.com](mailto:harshithm046@gmail.com) | [harshith046](https://github.com/harshith046) | 
+| Name                         | Email                                                   | GitHub                                        |
+|------------------------------|---------------------------------------------------------|-----------------------------------------------|
+| Harshith Madda               | [harshithm046@gmail.com](mailto:harshithm046@gmail.com) | [harshith046](https://github.com/harshith046) | 
 
-—  
-  
 
